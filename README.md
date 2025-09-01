@@ -1,5 +1,5 @@
-🚀 Full-Stack Customer Management App (React + Express + Axios)
-
+🚀 **Full-Stack Customer Management App (React + Express + Axios)
+**
 This is a full-stack web application built with React.js (frontend) and Node.js/Express.js (backend).
 The app demonstrates API communication using Axios and handles authentication, form submission, and error handling.
 
@@ -39,8 +39,8 @@ SQLite / MongoDB / PostgreSQL (choose your DB)
 
 ⚡ Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/challasamatha/Customer-Management-App.git               
+cd Customer-Mangement-App
 
 2️⃣ Backend Setup
 cd server
@@ -126,6 +126,7 @@ customer-management-app/
 This project is licensed under the MIT License.
 Name: Challa Samatha 
 E-Mail: samathachowdary2004@gmail.com
+
 
 
 
